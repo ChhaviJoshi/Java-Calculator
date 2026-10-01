@@ -6,7 +6,7 @@ A simple Java Swing-based calculator with a clean UI supporting basic arithmetic
 A simple desktop calculator built with **Java Swing**.  
 Supports basic arithmetic operations with a clean and user-friendly interface.
 
----
+----
 
 ## ✨ Features
 - Addition, Subtraction, Multiplication, Division
@@ -14,7 +14,7 @@ Supports basic arithmetic operations with a clean and user-friendly interface.
 - Responsive and clean UI
 - Alternating grey & white button design
 
----
+----
 
 ## 🚀 Getting Started
 
@@ -26,3 +26,5 @@ Supports basic arithmetic operations with a clean and user-friendly interface.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/java-calculator.git
+
+   
